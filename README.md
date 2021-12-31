@@ -1,6 +1,6 @@
 # 概要
 sklearn.datasetsで提供されているload_wine(3種類のワイン)の分類と重要特徴量の表示、RandomForestの可視化    
-# 実行結果（訓練データとテストデータに対する精度、特徴量の重要度）
+# 実行結果（訓練データとテストデータに対する正解率、特徴量の重要度）
 training accuracy= 1.0  
 test accuracy= 0.9777777777777777  
 
